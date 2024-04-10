@@ -1593,7 +1593,7 @@
         "request": "^2.88.0",
         "request-promise-native": "^1.0.5",
         "semver": "^6.0.0",
-        "tar": "^4.4.6",
+        "tar": "^6.2.1",
         "vscode-azureextensionui": "^0.26.5",
         "vscode-azureappservice": "^0.43.0",
         "vscode-languageclient": "^5.1.1",
